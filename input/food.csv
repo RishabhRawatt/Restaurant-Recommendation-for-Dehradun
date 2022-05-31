@@ -1,0 +1,302 @@
+res_ID,Name,C_Type,Veg_Non,min_age,max_age,price,url
+1,Doon Darbar,Healthy Food,veg,1,18,500,https://www.zomato.com/dehradun/doon-darbar-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+2,Gaylord Xpress,Healthy Food,non-veg,18,40,1000,https://www.zomato.com/dehradun/gaylord-xpress-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+3,Uss Da Dhaba,Snack,veg,18,40,1500,https://www.zomato.com/dehradun/uss-da-dhaba-1-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+4,Dominos Pizza,Healthy Food,non-veg,40,100,3500,https://www.zomato.com/dehradun/dominos-pizza-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+5,Mannu Fast Food,Dessert,veg,40,100,3500,https://www.zomato.com/dehradun/mannu-fast-food-raipur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+6,Chicago BR,Japanese,veg,18,40,4500,https://www.zomato.com/dehradun/chicago-br-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+7,Burger King,Dessert,veg,40,100,4500,https://www.zomato.com/dehradun/burger-king-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+8,Anandam,Healthy Food,non-veg,1,18,2500,https://www.zomato.com/dehradun/anandam-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+9,Kalsang AMA Cafe,Healthy Food,veg,40,100,4000,https://www.zomato.com/dehradun/kalsang-ama-cafe-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+10,Dominos Pizza,Healthy Food,non-veg,18,40,2000,https://www.zomato.com/dehradun/dominos-pizza-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+11,Dominos Pizza,Healthy Food,veg,18,40,2000,https://www.zomato.com/dehradun/dominos-pizza-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+12,Punjab Grill,Snack,non-veg,1,18,4000,https://www.zomato.com/dehradun/punjab-grill-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+13,Kalsang Friends Corner,Healthy Food,veg,1,18,3000,https://www.zomato.com/dehradun/kalsang-friends-corner-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+14,Tuhada Dhaba,Healthy Food,veg,18,40,4500,https://www.zomato.com/dehradun/tuhada-dhaba-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+15,Chilliz,Indian,veg,18,40,500,https://www.zomato.com/dehradun/chilliz-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+16,Walk In Woods,Indian,veg,18,40,1500,https://www.zomato.com/dehradun/walk-in-woods-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+17,Walk In Woods,Snack,veg,40,100,1500,https://www.zomato.com/dehradun/walk-in-woods-chironwali?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+18,Dominos Pizza,Dessert,non-veg,18,40,2000,https://www.zomato.com/dehradun/dominos-pizza-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+19,Singh Darbar,Snack,non-veg,40,100,2500,https://www.zomato.com/dehradun/singh-darbar-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+20,Cafe De Piccolo,Healthy Food,veg,20,100,2500,https://www.zomato.com/cafedepiccolo?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+21,Orchard,Dessert,veg,15,100,4000,https://www.zomato.com/dehradun/orchard-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+22,70 Percent Restro Cafe,Japanese,veg,1,40,2000,https://www.zomato.com/dehradun/70-percent-restro-cafe-3-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+23,Barbeque Nation,Dessert,veg,20,100,2000,https://www.zomato.com/dehradun/barbeque-nation-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+24,Dominos Pizza,Healthy Food,non-veg,1,18,4000,https://www.zomato.com/dehradun/dominos-pizza-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+25,The Great Indian Pub,Healthy Food,non-veg,18,100,3000,https://www.zomato.com/dehradun/the-great-indian-pub-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+26,KC Soup Bar,Healthy Food,veg,18,40,4500,https://www.zomato.com/dehradun/kc-soup-bar-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+27,Elloras Melting Moments,Healthy Food,non-veg,40,40,1500,https://www.zomato.com/dehradun/elloras-melting-moments-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+28,Jalapenos,Snack,veg,40,18,3500,https://www.zomato.com/dehradun/jalapenos-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+29,Uncle M Hungry,Healthy Food,non-veg,18,18,3500,https://www.zomato.com/dehradun/uncle-m-hungry-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+30,Nanys Bakery,Healthy Food,veg,40,40,4500,https://www.zomato.com/dehradun/nanys-bakery-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+31,Pizza Italia,Indian,non-veg,1,40,4500,https://www.zomato.com/dehradun/pizza-italia-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+32,Angeethi Restaurant,Indian,veg,40,40,2500,https://www.zomato.com/dehradun/angeethi-restaurant-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+33,Pahalwan Paratha Dhabba,Snack,veg,18,100,4000,https://www.zomato.com/dehradun/pahalwan-paratha-dhabba-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+34,Black Pepper Restaurant,Dessert,non-veg,18,40,2000,https://www.zomato.com/dehradun/black-pepper-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+35,Mirabilia,Healthy Food,veg,1,100,2000,https://www.zomato.com/dehradun/mirabilia-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+36,Dunkin Donuts,Healthy Food,non-veg,1,18,4000,https://www.zomato.com/dehradun/dunkin-donuts-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+37,KFC,Indian,veg,18,40,3000,https://www.zomato.com/dehradun/kfc-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+38,Infamous Bistro & Bar,Indian,veg,18,40,4500,https://www.zomato.com/dehradun/infamous-bistro-bar-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+39,Town Table Restaurant,Snack,veg,18,100,500,https://www.zomato.com/dehradun/town-table-restaurant-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+40,First Gear Cafe,Snack,non-veg,40,100,1500,https://www.zomato.com/dehradun/first-gear-cafe-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+41,Super Donuts,Healthy Food,veg,18,40,1500,https://www.zomato.com/dehradun/super-donuts-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+42,Anandam,Dessert,non-veg,40,100,2000,https://www.zomato.com/dehradun/anandam-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+43,Cafe Village Highway,Japanese,veg,20,18,2500,https://www.zomato.com/dehradun/cafe-village-highway-1-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+44,KFC,Dessert,non-veg,15,100,2500,https://www.zomato.com/dehradun/kfc-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+45,The Buffet Snack Shop,Healthy Food,veg,1,40,500,https://www.zomato.com/dehradun/the-buffet-snack-shop-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+46,South Indian Vibes Restaurant,Healthy Food,veg,20,40,1000,https://www.zomato.com/dehradun/south-indian-vibes-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+47,Mc Donalds,Japanese,veg,1,18,1500,https://www.zomato.com/dehradun/mcdonalds-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+48,Big Feast,Dessert,veg,18,18,3500,https://www.zomato.com/dehradun/big-feast-2-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+49,Udupi Cafe Bangalore Idli,Healthy Food,veg,18,40,3500,https://www.zomato.com/dehradun/udupi-cafe-bangalore-idli-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+50,Eddies Patisserie,Healthy Food,non-veg,40,40,4500,https://www.zomato.com/dehradun/eddies-patisserie-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+51,Nazims Kathi Roll,Japanese,veg,40,40,4500,https://www.zomato.com/dehradun/nazims-kathi-roll-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+52,Countdown Fast Food,Dessert,non-veg,18,100,2500,https://www.zomato.com/dehradun/countdown-fast-food-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+53,KFC,Healthy Food,non-veg,40,40,4000,https://www.zomato.com/dehradun/kfc-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+54,Mussoorie Lights,Healthy Food,veg,1,100,2000,https://www.zomato.com/dehradun/mussoorie-lights-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+55,Tirupati Restaurant,Japanese,non-veg,40,100,2000,https://www.zomato.com/dehradun/tirupati-restaurant-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+56,Anandpuri Restaurant,Dessert,veg,18,100,4000,https://www.zomato.com/dehradun/anandpuri-restaurant-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+57,Pizza Hut,Healthy Food,non-veg,18,40,3000,https://www.zomato.com/dehradun/pizza-hut-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+58,Bawarchi,Healthy Food,veg,25,100,4500,https://www.zomato.com/dehradun/bawarchi-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+59,Waffles & Crepes,Japanese,veg,20,18,500,https://www.zomato.com/dehradun/waffles-crepes-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+60,The Swings Cafe,Dessert,veg,18,100,1500,https://www.zomato.com/dehradun/the-swings-cafe-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+61,TBistro,Healthy Food,non-veg,1,40,1500,https://www.zomato.com/dehradun/tbistro-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+62,Subway,Healthy Food,veg,23,40,2000,https://www.zomato.com/dehradun/subway-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+63,Just Cafe,Japanese,non-veg,22,18,2000,https://www.zomato.com/dehradun/just-cafe-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+64,Pizza Hut,Dessert,veg,25,18,4000,https://www.zomato.com/dehradun/pizza-hut-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+65,BakeMasters,Healthy Food,non-veg,12,40,3000,https://www.zomato.com/dehradun/bakemasters-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+66,Patio Terrace,Healthy Food,veg,1,40,4500,https://www.zomato.com/dehradun/patio-terrace-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+67,Five Star Janta,Japanese,non-veg,15,40,500,https://www.zomato.com/dehradun/five-star-janta-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+68,CnD Bakers & Restaurant,Dessert,veg,18,100,1500,https://www.zomato.com/dehradun/cnd-bakers-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+69,Cafe Cibo,Healthy Food,non-veg,20,40,1500,https://www.zomato.com/dehradun/cafe-cibo-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+70,Pizza Live,Healthy Food,veg,1,100,2000,https://www.zomato.com/dehradun/pizza-live-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+71,Best Buddys Restro Cafe,Japanese,non-veg,18,100,2500,https://www.zomato.com/dehradun/best-buddys-restro-cafe-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+72,Old Elloras Bakers and Confectioners,Dessert,veg,18,100,2500,https://www.zomato.com/dehradun/old-elloras-bakers-and-confectioners-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+73,Crave More,Healthy Food,veg,3,40,500,https://www.zomato.com/dehradun/crave-more-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+74,Gulab Sweets & Restaurants,Healthy Food,veg,20,100,1000,https://www.zomato.com/dehradun/gulab-sweets-restaurants-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+75,Cafe Marigold,Japanese,non-veg,21,18,1500,https://www.zomato.com/dehradun/cafe-marigold-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+76,Aura Kitchen And Spirits,Dessert,veg,22,100,3500,https://www.zomato.com/dehradun/aura-kitchen-and-spirits-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+77,Grille Restaurant,Healthy Food,non-veg,12,40,3500,https://www.zomato.com/dehradun/grille-restaurant-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+78,Burger Singh - Big Punjabi Burgers,Healthy Food,veg,18,40,4500,https://www.zomato.com/dehradun/burger-singh-big-punjabi-burgers-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+79,Y Cafe & Restaurant,Japanese,non-veg,18,18,4500,https://www.zomato.com/dehradun/y-cafe-restaurant-1-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+80,Bikanervala,Dessert,veg,18,18,2500,https://www.zomato.com/dehradun/bikanervala-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+81,Kwik Bite Centre,Healthy Food,non-veg,16,40,4000,https://www.zomato.com/dehradun/kwik-bite-centre-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+82,Nathus Sweets,Healthy Food,veg,15,40,2000,https://www.zomato.com/dehradun/nathus-sweets-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+83,Zaffran- Regenta LP Vilas,Japanese,non-veg,12,40,2000,https://www.zomato.com/dehradun/zaffran-regenta-lp-vilas-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+84,Meet Me There,Dessert,veg,1,100,500,https://www.zomato.com/dehradun/meet-me-there-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+85,The Punjabi Essence Restaurant,Healthy Food,non-veg,3,40,1000,https://www.zomato.com/dehradun/the-punjabi-essence-restaurant-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+86,Mago Veg & Non Veg Restaurant,Healthy Food,veg,1,100,1500,https://www.zomato.com/dehradun/mago-veg-non-veg-restaurant-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+87,Best Buddys Cafe,Japanese,veg,18,18,3500,https://www.zomato.com/dehradun/best-buddys-cafe-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+88,THC- Truckers Halt Cafe,Dessert,veg,18,18,500,https://www.zomato.com/dehradun/thc-truckers-halt-cafe-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+89,Riverstone Cottages,Healthy Food,non-veg,3,40,1000,https://www.zomato.com/dehradun/riverstone-cottages-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+90,Naveen Vegetarian,Healthy Food,veg,20,40,1500,https://www.zomato.com/dehradun/naveen-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+91,Tonic,Japanese,non-veg,21,40,3500,https://www.zomato.com/dehradun/tonic-1-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+92,Aura Restaurant,Dessert,veg,22,100,500,https://www.zomato.com/dehradun/aura-restaurant-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+93,Asia Seven,Healthy Food,non-veg,12,40,1000,https://www.zomato.com/dehradun/asia-seven-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+94,The Yellow Chilli,Healthy Food,veg,18,100,1500,https://www.zomato.com/dehradun/the-yellow-chilli-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+95,Delhi Darbar,Japanese,non-veg,18,100,3500,https://www.zomato.com/dehradun/delhi-darbar-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+96,Tuhada Dhaba,Dessert,veg,18,100,4000,https://www.zomato.com/dehradun/tuhada-dhaba-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+97,Naths Chinese,Healthy Food,non-veg,16,100,3000,https://www.zomato.com/dehradun/naths-chinese-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+98,Standard Bakers Products,Healthy Food,veg,15,40,4500,https://www.zomato.com/dehradun/standard-bakers-products-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+99,LOpéra Salon de Thé,Japanese,veg,18,100,500,https://www.zomato.com/dehradun/lopéra-salon-de-thé-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+100,Brew Factory,Dessert,veg,18,18,1500,https://www.zomato.com/dehradun/brew-factory-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+101,Prez Restaurant,Healthy Food,non-veg,3,100,1500,https://www.zomato.com/dehradun/prez-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+102,Cafe Travertine,Healthy Food,veg,20,40,2000,https://www.zomato.com/dehradun/cafe-travertine-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+103,Town Table Restaurant,Japanese,non-veg,21,40,2500,https://www.zomato.com/dehradun/town-table-restaurant-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+104,Epicurean,Dessert,veg,22,18,2500,https://www.zomato.com/dehradun/epicurean-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+105,Opal Lounge,Healthy Food,non-veg,12,18,500,https://www.zomato.com/dehradun/opal-lounge-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+106,Mussoorie Lights,Healthy Food,veg,18,40,1000,https://www.zomato.com/dehradun/mussoorie-lights-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+107,The Terrace - Four Points by Sheraton Dehradun,Japanese,non-veg,18,40,1500,https://www.zomato.com/dehradun/the-terrace-four-points-by-sheraton-dehradun-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+108,The Tavern Restaurant,Dessert,veg,18,40,3500,https://www.zomato.com/dehradun/the-tavern-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+109,Garden Cress - Ramada Dehradun,Healthy Food,non-veg,16,100,3500,https://www.zomato.com/dehradun/garden-cress-ramada-dehradun-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+110,Qb Lounge Bar,Healthy Food,veg,20,40,4500,https://www.zomato.com/dehradun/qb-lounge-bar-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+111,Muse Restaurant,Japanese,veg,40,100,4500,https://www.zomato.com/dehradun/muse-restaurant-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+112,Crust - Ramada Dehradun,Dessert,veg,23,18,2500,https://www.zomato.com/dehradun/crust-ramada-dehradun-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+113,MJ Restaurant - MJ Residency,Healthy Food,non-veg,30,18,1500,https://www.zomato.com/dehradun/mj-restaurant-mj-residency-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+114,Rico Red - Hotel JSR Continental,Healthy Food,veg,12,40,3500,https://www.zomato.com/dehradun/rico-red-hotel-jsr-continental-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+115,Grille Restaurant,Japanese,non-veg,24,40,3500,https://www.zomato.com/dehradun/grille-restaurant-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+116,Beertales,Dessert,veg,12,40,4500,https://www.zomato.com/dehradun/beertales-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+117,Retro Pub,Healthy Food,non-veg,33,100,4500,https://www.zomato.com/dehradun/retro-pub-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+118,Punjab Grill,Healthy Food,veg,16,40,2500,https://www.zomato.com/dehradun/punjab-grill-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+119,Barbeque Nation,Japanese,non-veg,20,100,4000,https://www.zomato.com/dehradun/barbeque-nation-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+120,The Great Indian Pub,Dessert,veg,19,100,2000,https://www.zomato.com/dehradun/the-great-indian-pub-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+121,Mirabilia,Healthy Food,non-veg,1,18,2000,https://www.zomato.com/dehradun/mirabilia-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+122,Best Buddys Restro Cafe,Healthy Food,veg,2,18,4000,https://www.zomato.com/dehradun/best-buddys-restro-cafe-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+123,G7 Fine Dine and Pub,Japanese,veg,4,40,3000,https://www.zomato.com/dehradun/g7-fine-dine-and-pub-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+124,Vatika Restaurant - Hotel Madhuban,Dessert,veg,10,40,4500,https://www.zomato.com/dehradun/vatika-restaurant-hotel-madhuban-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+125,Katmans Kitchen & Bar,Healthy Food,non-veg,12,40,500,https://www.zomato.com/dehradun/katmans-kitchen-bar-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+126,Lords Of Barbecue,Healthy Food,veg,5,100,1500,https://www.zomato.com/dehradun/lords-of-barbecue-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+127,0135 Pub & Kitchen,Japanese,non-veg,6,40,1500,https://www.zomato.com/dehradun/0135-pub-kitchen-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+128,Ambrosia,Dessert,veg,23,100,2500,https://www.zomato.com/dehradun/ambrosia-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+129,The Urban Pendu Cafe,Healthy Food,non-veg,30,100,4000,https://www.zomato.com/dehradun/the-urban-pendu-cafe-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+130,Citrus Café - Lemon Tree Hotel,Healthy Food,veg,12,40,2000,https://www.zomato.com/dehradun/citrus-café-lemon-tree-hotel-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+131,White Horse - Ramada Dehradun,Healthy Food,non-veg,24,40,2000,https://www.zomato.com/dehradun/white-horse-ramada-dehradun-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+132,Allen n Marlees - Ramada Dehradun,Healthy Food,veg,12,18,4000,https://www.zomato.com/dehradun/allen-n-marlees-ramada-dehradun-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+133,Alcove,Japanese,non-veg,33,50,3000,https://www.zomato.com/dehradun/alcove-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+134,Silver Palm Restaurant,Dessert,veg,16,40,4500,https://www.zomato.com/dehradun/silver-palm-restaurant-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+135,Clever Fox Cafe,Healthy Food,veg,20,40,500,https://www.zomato.com/dehradun/clever-fox-cafe-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+136,Brigadiers Restro Bar By Vishranti,Healthy Food,veg,19,40,500,https://www.zomato.com/dehradun/brigadiers-restro-bar-by-vishranti-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+137,Frost- Hotel Saffron Leaf,Japanese,non-veg,1,100,500,https://www.zomato.com/dehradun/frost-hotel-saffron-leaf-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+138,Dive N Dine,Snack,veg,2,40,500,https://www.zomato.com/dehradun/dive-n-dine-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+139,Asia Seven,Healthy Food,non-veg,4,100,1000,https://www.zomato.com/dehradun/asia-seven-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+140,Thee Heart,Healthy Food,veg,10,50,2000,https://www.zomato.com/dehradun/thee-heart-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+141,The Pavilion,Indian,non-veg,12,18,1500,https://www.zomato.com/dehradun/the-pavilion-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+142,The Clove Restaurant,Indian,veg,18,40,1000,https://www.zomato.com/dehradun/the-clove-restaurant-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+143,Black Pepper Restaurant,Snack,non-veg,18,40,3000,https://www.zomato.com/dehradun/black-pepper-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+144,Zaffran- Regenta LP Vilas,Dessert,veg,3,40,4500,https://www.zomato.com/dehradun/zaffran-regenta-lp-vilas-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+145,Tonic,Snack,non-veg,20,100,5000,https://www.zomato.com/dehradun/tonic-1-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+146,The Yellow Chilli,Snack,veg,21,40,500,https://www.zomato.com/dehradun/the-yellow-chilli-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+147,LOpéra Salon de Thé,Healthy Food,veg,22,100,500,https://www.zomato.com/dehradun/lopéra-salon-de-thé-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+148,Brew Factory,Healthy Food,veg,12,100,500,https://www.zomato.com/dehradun/brew-factory-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+149,Edens Grove,Indian,non-veg,18,100,500,https://www.zomato.com/dehradun/edens-grove-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+150,Bottle Kitchen & Co,Indian,veg,18,100,1000,https://www.zomato.com/dehradun/bottle-kitchen-co-1-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+151,Moti Mahal Restaurant,Snack,non-veg,18,100,2000,https://www.zomato.com/dehradun/moti-mahal-restaurant-1-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+152,Oxygin Lounge & Bistro,Dessert,veg,16,100,1500,https://www.zomato.com/dehradun/oxygin-lounge-bistro-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+153,3 Pyramids,Snack,non-veg,15,100,1000,https://www.zomato.com/dehradun/3-pyramids-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+154,Aangan Restaurant & Bar,Snack,veg,18,100,3000,https://www.zomato.com/dehradun/aangan-restaurant-bar-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+155,Karma Lounge,Indian,non-veg,18,40,4500,https://www.zomato.com/dehradun/karma-lounge-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+156,Barbeque Planet,Snack,veg,3,100,5000,https://www.zomato.com/dehradun/barbeque-planet-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+157,Melt - Hotel Saffron Leaf,Dessert,non-veg,20,18,3500,https://www.zomato.com/dehradun/melt-hotel-saffron-leaf-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+158,Kukreja Food Complex,Snack,veg,21,100,3500,https://www.zomato.com/dehradun/kukreja-food-complex-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+159,Onyx - Four Points by Sheraton Dehradun,Snack,veg,22,40,4500,https://www.zomato.com/dehradun/onyx-four-points-by-sheraton-dehradun-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+160,MOB- The Revolution Lounge,Dessert,veg,12,40,4500,https://www.zomato.com/dehradun/mob-the-revolution-lounge-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+161,Kaafal,Snack,non-veg,18,18,2500,https://www.zomato.com/dehradun/kaafal-chironwali?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+162,Bottoms Up Bistro,Snack,veg,18,18,4000,https://www.zomato.com/dehradun/bottoms-up-bistro-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+163,Graffiti,Dessert,non-veg,18,40,2000,https://www.zomato.com/dehradun/graffiti-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+164,Curry Club Restaurant - Hotel Crown Royale,Snack,veg,16,40,2000,https://www.zomato.com/dehradun/curry-club-restaurant-hotel-crown-royale-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+165,Coco Rico - Hotel JSR Continental,Snack,non-veg,20,40,4000,https://www.zomato.com/dehradun/coco-rico-hotel-jsr-continental-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+166,UK07 Restro,Dessert,veg,40,100,3000,https://www.zomato.com/dehradun/uk07-restro-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+167,Head Over Heels - Hotel Madhuban,Snack,non-veg,23,40,4500,https://www.zomato.com/dehradun/head-over-heels-hotel-madhuban-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+168,Blue Whale,Indian,veg,30,100,500,https://www.zomato.com/dehradun/blue-whale-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+169,Spice Restaurant - Hotel Galaxy,Snack,non-veg,12,18,1500,https://www.zomato.com/dehradun/spice-restaurant-hotel-galaxy-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+170,The Mint Leaf Restaurant - Hotel Shiva Residency,Dessert,non-veg,24,18,1500,https://www.zomato.com/dehradun/the-mint-leaf-restaurant-hotel-shiva-residency-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+171,Classic Restaurant,Snack,veg,12,40,2500,https://www.zomato.com/dehradun/classic-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+172,Blu Flames-Hotel The Golden Oyster,Snack,veg,33,40,4000,https://www.zomato.com/dehradun/blu-flames-hotel-the-golden-oyster-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+173,Crystal - Hotel Solitaire Express,Healthy Food,veg,16,40,2000,https://www.zomato.com/dehradun/crystal-hotel-solitaire-express-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+174,Sky Hub,Healthy Food,non-veg,20,100,2000,https://www.zomato.com/dehradun/sky-hub-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+175,The Phoenix Club,Indian,veg,19,40,4000,https://www.zomato.com/dehradun/the-phoenix-club-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+176,Bay Leaf - Hotel Ambassador,Indian,non-veg,1,100,3000,https://www.zomato.com/dehradun/bay-leaf-hotel-ambassador-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+177,Crystal Bar & Restaurant,Snack,veg,2,100,4500,https://www.zomato.com/dehradun/crystal-bar-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+178,Aroma @ Onix,Dessert,veg,4,18,500,https://www.zomato.com/dehradun/aroma-@-onix-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+179,Hotel Ambassador,Indian,veg,10,18,500,https://www.zomato.com/dehradun/hotel-ambassador-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+180,The Coffee Shop,Snack,non-veg,12,40,500,https://www.zomato.com/dehradun/the-coffee-shop-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+181,The Giggles Club,Dessert,veg,18,40,500,https://www.zomato.com/dehradun/the-giggles-club-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+182,Blue Saucer - Hotel GMS Grand,Snack,non-veg,18,40,1000,https://www.zomato.com/dehradun/blue-saucer-hotel-gms-grand-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+183,Aishwarya Bar & Family Restaurant,Snack,veg,3,100,2000,https://www.zomato.com/dehradun/aishwarya-bar-family-restaurant-chironwali?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+184,Patio Terrace,Healthy Food,veg,20,40,1500,https://www.zomato.com/dehradun/patio-terrace-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+185,Paradise,Healthy Food,veg,21,100,1000,https://www.zomato.com/dehradun/paradise-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+186,Level One,Indian,non-veg,22,100,3000,https://www.zomato.com/dehradun/level-one-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+187,Sheesha Lounge & Restaurant,Indian,veg,12,40,4500,https://www.zomato.com/dehradun/sheesha-lounge-restaurant-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+188,Bravo Charlie,Snack,non-veg,18,40,5000,https://www.zomato.com/dehradun/bravo-charlie-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+189,The Cosmopolitan,Dessert,veg,18,18,500,https://www.zomato.com/dehradun/the-cosmopolitan-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+190,Ada - Four Banyans,Indian,veg,18,18,500,https://www.zomato.com/dehradun/ada-four-banyans-raipur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+191,Thirsty Anchor Parlor - TAP,Snack,veg,16,40,500,https://www.zomato.com/dehradun/thirsty-anchor-parlor-tap-1-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+192,The Garage Dine-In,Japanese,veg,18,40,500,https://www.zomato.com/dehradun/the-garage-dine-in-1-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+193,The Food Festival,Dessert,non-veg,18,40,1000,https://www.zomato.com/dehradun/the-food-festival-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+194,Kalsang Friends Corner,Healthy Food,veg,3,100,2000,https://www.zomato.com/dehradun/kalsang-friends-corner-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+195,Orchard,Healthy Food,veg,20,40,1500,https://www.zomato.com/dehradun/orchard-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+196,Bawarchi,Japanese,veg,21,100,1000,https://www.zomato.com/dehradun/bawarchi-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+197,Cafe Cibo,Dessert,veg,22,18,3000,https://www.zomato.com/dehradun/cafe-cibo-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+198,Aura Kitchen And Spirits,Healthy Food,non-veg,12,18,4500,https://www.zomato.com/dehradun/aura-kitchen-and-spirits-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+199,The Punjabi Essence Restaurant,Healthy Food,veg,18,40,5000,https://www.zomato.com/dehradun/the-punjabi-essence-restaurant-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+200,Bercos,Japanese,non-veg,18,40,4500,https://www.zomato.com/dehradun/bercos-4-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+201,The Buffet Snack Shop,Dessert,veg,18,40,4500,https://www.zomato.com/dehradun/the-buffet-snack-shop-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+202,Laxmi Bakers,Healthy Food,non-veg,16,100,2500,https://www.zomato.com/dehradun/laxmi-bakers-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+203,Burger & Fast Food Corner,Healthy Food,veg,20,40,4000,https://www.zomato.com/dehradun/burger-fast-food-corner-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+204,UK Roll Express,Japanese,non-veg,40,18,2000,https://www.zomato.com/dehradun/uk-roll-express-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+205,Chetan Puri Wala,Dessert,veg,23,18,2000,https://www.zomato.com/dehradun/chetan-puri-wala-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+206,Neeraj Sweet Shop,Healthy Food,non-veg,30,40,4000,https://www.zomato.com/dehradun/neeraj-sweet-shop-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+207,Silli Chilli,Healthy Food,veg,12,40,3000,https://www.zomato.com/dehradun/silli-chilli-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+208,Ghai Kulfi,Japanese,non-veg,24,40,4500,https://www.zomato.com/dehradun/ghai-kulfi-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+209,Kathi Rolls,Dessert,non-veg,12,100,500,https://www.zomato.com/dehradun/kathi-rolls-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+210,Bobbys Chinese Food Hut,Healthy Food,veg,33,40,1500,https://www.zomato.com/dehradun/bobbys-chinese-food-hut-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+211,Tick N Pick,Healthy Food,non-veg,16,100,1500,https://www.zomato.com/dehradun/tick-n-pick-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+212,My Corn,Japanese,veg,10,70,2500,https://www.zomato.com/dehradun/my-corn-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+213,New Jaina Restaurant,Healthy Food,non-veg,12,50,4000,https://www.zomato.com/dehradun/new-jaina-restaurant-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+214,Delhi-6 Chat Bhandar,Healthy Food,veg,18,40,2000,https://www.zomato.com/dehradun/delhi-6-chat-bhandar-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+215,Sethis,Indian,non-veg,18,40,2000,https://www.zomato.com/dehradun/sethis-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+216,Binnys Fast Food,Indian,veg,3,40,4000,https://www.zomato.com/dehradun/binnys-fast-food-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+217,Grind CC Pub,Snack,non-veg,20,100,3000,https://www.zomato.com/dehradun/grind-cc-pub-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+218,Kailash Bhojnalya,Dessert,non-veg,21,40,4500,https://www.zomato.com/dehradun/kailash-bhojnalya-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+219,Bikaner Sweets,Indian,veg,22,30,500,https://www.zomato.com/dehradun/bikaner-sweets-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+220,Uttar Sweets,Healthy Food,non-veg,12,40,500,https://www.zomato.com/dehradun/uttar-sweets-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+221,Salvation Dreams,Japanese,veg,18,100,500,https://www.zomato.com/dehradun/salvation-dreams-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+222,Montus Kitchen,Dessert,non-veg,18,18,500,https://www.zomato.com/dehradun/montus-kitchen-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+223,Doon Chaat Bhandar,Healthy Food,veg,18,18,1000,https://www.zomato.com/dehradun/doon-chaat-bhandar-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+224,ChaiWay,Healthy Food,non-veg,16,40,2000,https://www.zomato.com/dehradun/chaiway-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+225,Muradabadi Chicken Biryani,Japanese,veg,18,40,1500,https://www.zomato.com/dehradun/muradabadi-chicken-biryani-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+226,Shahi Darbar,Healthy Food,non-veg,18,40,1000,https://www.zomato.com/dehradun/shahi-darbar-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+227,Sumit Drinks,Healthy Food,non-veg,3,100,3000,https://www.zomato.com/dehradun/sumit-drinks-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+228,Kabir Dairy,Indian,veg,1,40,4500,https://www.zomato.com/dehradun/kabir-dairy-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+229,Big Bite,Healthy Food,non-veg,18,40,4500,https://www.zomato.com/dehradun/big-bite-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+230,Goli Vada Pav No.1,Japanese,veg,18,100,2500,https://www.zomato.com/dehradun/goli-vada-pav-no-1-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+231,New Rita Kulfi,Dessert,non-veg,40,40,4000,https://www.zomato.com/dehradun/new-rita-kulfi-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+232,Maini Maggi Point,Healthy Food,veg,40,100,2000,https://www.zomato.com/dehradun/maini-maggi-point-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+233,Delhi Fruit Juice Center,Healthy Food,non-veg,18,18,2000,https://www.zomato.com/dehradun/delhi-fruit-juice-center-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+234,Punjabi Rajma Kadhi Chawal,Japanese,non-veg,40,18,4000,https://www.zomato.com/dehradun/punjabi-rajma-kadhi-chawal-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+235,Grand Juice and Coffee Bar,Healthy Food,veg,1,40,3000,https://www.zomato.com/dehradun/grand-juice-and-coffee-bar-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+236,Sant Kabir Dairy,Healthy Food,non-veg,40,40,4500,https://www.zomato.com/dehradun/sant-kabir-dairy-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+237,Hansraj Restaurant,Indian,veg,18,40,500,https://www.zomato.com/dehradun/hansraj-restaurant-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+238,Raju Food Restaurant,Healthy Food,non-veg,18,100,1500,https://www.zomato.com/dehradun/raju-food-restaurant-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+239,Fresh Juice Corner,Japanese,veg,1,40,1500,https://www.zomato.com/dehradun/fresh-juice-corner-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+240,Swarna Bakers,Healthy Food,non-veg,1,30,2500,https://www.zomato.com/dehradun/swarna-bakers-garhi-cantt?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+241,Pappu Pakode Wale,Healthy Food,non-veg,18,40,4000,https://www.zomato.com/dehradun/pappu-pakode-wale-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+242,Ghai Kulfi,Indian,veg,18,100,2000,https://www.zomato.com/dehradun/ghai-kulfi-malsi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+243,New Sabri Kathi Roll & Chowmein Center,Healthy Food,non-veg,18,18,2000,https://www.zomato.com/dehradun/new-sabri-kathi-roll-chowmein-center-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+244,Omi Dhaba,Japanese,veg,40,18,4000,https://www.zomato.com/dehradun/omi-dhaba-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+245,Basant Restaurant,Snack,non-veg,18,40,3000,https://www.zomato.com/dehradun/basant-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+246,The Lunch Box,Dessert,veg,40,40,4500,https://www.zomato.com/dehradun/the-lunch-box-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+247,Cafe Delight,Indian,non-veg,20,40,500,https://www.zomato.com/dehradun/cafe-delight-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+248,Maharaja Roll Corner,Indian,non-veg,15,100,500,https://www.zomato.com/dehradun/maharaja-roll-corner-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+249,Amritsari Hatti,Healthy Food,veg,1,40,500,https://www.zomato.com/dehradun/amritsari-hatti-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+250,New Rita Kulfi,Japanese,non-veg,1,30,500,https://www.zomato.com/dehradun/new-rita-kulfi-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+251,5 Star Tea Stall,Healthy Food,veg,18,40,1000,https://www.zomato.com/dehradun/5-star-tea-stall-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+252,Kings Kitchen,Healthy Food,non-veg,18,100,2000,https://www.zomato.com/dehradun/kings-kitchen-raipur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+253,Richi Rich Confectioners,Indian,veg,40,18,1500,https://www.zomato.com/dehradun/richi-rich-confectioners-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+254,SK Restaurant,Healthy Food,non-veg,40,18,1000,https://www.zomato.com/dehradun/sk-restaurant-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+255,Parantha Point,Japanese,veg,18,40,3000,https://www.zomato.com/dehradun/parantha-point-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+256,Manohar Tea Shop,Snack,non-veg,40,40,500,https://www.zomato.com/dehradun/manohar-tea-shop-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+257,Himalayan Bakers,Dessert,veg,1,40,3000,https://www.zomato.com/dehradun/himalayan-bakers-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+258,Sai Fast Food,Snack,non-veg,40,100,1500,https://www.zomato.com/dehradun/sai-fast-food-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+259,Karan Fast Food & Restaurant,Indian,veg,18,40,2500,https://www.zomato.com/dehradun/karan-fast-food-restaurant-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+260,Atram Patram,Snack,non-veg,18,100,3000,https://www.zomato.com/dehradun/atram-patram-chukkuwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+261,Goyal Dairy,Dessert,veg,1,18,4000,https://www.zomato.com/dehradun/goyal-dairy-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+262,New Diksha Bhojanalaya,Snack,non-veg,1,18,5000,https://www.zomato.com/dehradun/new-diksha-bhojanalaya-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+263,Scoops Ice Cream Cafe,Snack,veg,18,40,3000,https://www.zomato.com/dehradun/scoops-ice-cream-cafe-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+264,Momos Planet,Snack,non-veg,18,40,500,https://www.zomato.com/dehradun/momos-planet-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+265,The Lunch Box,Dessert,veg,18,40,3000,https://www.zomato.com/dehradun/the-lunch-box-kaonli?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+266,Bismillah Dhaba,Snack,non-veg,40,100,1500,https://www.zomato.com/dehradun/bismillah-dhaba-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+267,Sri Sai Lucky Restaurant,Indian,veg,18,40,2500,https://www.zomato.com/dehradun/sri-sai-lucky-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+268,Sharma Spicy Food,Snack,non-veg,40,40,3000,https://www.zomato.com/dehradun/sharma-spicy-food-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+269,Munal Tea Express,Dessert,veg,20,100,4000,https://www.zomato.com/dehradun/munal-tea-express-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+270,Wongs Chinese,Snack,non-veg,15,40,5000,https://www.zomato.com/dehradun/wongs-chinese-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+271,Lazezz Kathi Roll From Kolkatas,Indian,veg,1,100,2500,https://www.zomato.com/dehradun/lazezz-kathi-roll-from-kolkatas-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+272,Night Owls,Snack,non-veg,18,18,4000,https://www.zomato.com/dehradun/night-owls-morowala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+273,Singh Darbar,Dessert,non-veg,18,18,2000,https://www.zomato.com/dehradun/singh-darbar-karanpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+274,Pizza Live,Snack,veg,18,40,2000,https://www.zomato.com/dehradun/pizza-live-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+275,Roll Baby Roll,Indian,non-veg,40,40,4000,https://www.zomato.com/dehradun/roll-baby-roll-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+276,Singh Soup Bar,Snack,veg,18,100,3000,https://www.zomato.com/dehradun/singh-soup-bar-hathibarkala-salwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+277,Anas & Andyz,Dessert,non-veg,40,100,4500,https://www.zomato.com/dehradun/anas-andyz-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+278,The Doon Jaayaka,Indian,veg,20,18,500,https://www.zomato.com/dehradun/the-doon-jaayaka-balliwala?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+279,Goli Vada Pav No. 1,Healthy Food,non-veg,15,18,500,https://www.zomato.com/dehradun/goli-vada-pav-no-1-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+280,SPS Rana Family Restaurant (KAKU),Japanese,non-veg,1,40,500,https://www.zomato.com/dehradun/sps-rana-family-restaurant-kaku-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+281,Jaina Restaurant,Dessert,veg,40,40,500,https://www.zomato.com/dehradun/jaina-restaurant-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+282,Punjabi Rasoi,Healthy Food,non-veg,20,40,1000,https://www.zomato.com/dehradun/punjabi-rasoi-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+283,Kalra Sweet Shop,Healthy Food,veg,15,100,2000,https://www.zomato.com/dehradun/kalra-sweet-shop-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+284,Sangam Food Point,Japanese,veg,1,40,1500,https://www.zomato.com/dehradun/sangam-food-point-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+285,Gianis,Indian,veg,18,100,1000,https://www.zomato.com/dehradun/gianis-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+286,Roll Baby Roll,Healthy Food,non-veg,18,100,1500,https://www.zomato.com/dehradun/roll-baby-roll-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+287,Sardarji Di Rasoi,Japanese,veg,18,40,2500,https://www.zomato.com/dehradun/sardarji-di-rasoi-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+288,Tandons Fast Food,Dessert,veg,40,40,4000,https://www.zomato.com/dehradun/tandons-fast-food-rajpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+289,Sunrise Bakers,Healthy Food,non-veg,18,18,2000,https://www.zomato.com/dehradun/sunrise-bakers-paltan-bazaar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+290,Jeeja Saaley Di Angeethi,Healthy Food,veg,40,18,2000,https://www.zomato.com/dehradun/jeeja-saaley-di-angeethi-1-ballupur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+291,Street Buster,Japanese,veg,20,40,4000,https://www.zomato.com/dehradun/street-buster-1-khurbura?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+292,The Bun Basket,Indian,veg,15,40,3000,https://www.zomato.com/dehradun/the-bun-basket-jakhan?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+293,Friends Sandwich Corner,Healthy Food,non-veg,1,40,4500,https://www.zomato.com/dehradun/friends-sandwich-corner-prem-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+294,Bhardwaj Bakers,Japanese,veg,12,100,500,https://www.zomato.com/dehradun/bhardwaj-bakers-dharampur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+295,Lucky Da Dhaba,Dessert,veg,24,40,500,https://www.zomato.com/dehradun/lucky-da-dhaba-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+296,Prakash and Brothers Dhaba,Healthy Food,non-veg,12,100,500,https://www.zomato.com/dehradun/prakash-and-brothers-dhaba-1-majra?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+297,WOW Chinese,Healthy Food,veg,1,18,500,https://www.zomato.com/dehradun/wow-chinese-krishna-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+298,Chappan Bhog,Japanese,veg,16,18,1000,https://www.zomato.com/dehradun/chappan-bhog-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+299,The 7th Street Cafe,Indian,veg,10,40,2000,https://www.zomato.com/dehradun/the-7th-street-cafe-subhash-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+300,Wow Chinese,Healthy Food,veg,12,40,1500,https://www.zomato.com/dehradun/wow-chinese-race-course?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
+,,,,,,,
